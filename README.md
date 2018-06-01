@@ -1,4 +1,4 @@
-# ruby-rails-sample
+# diversitea-test
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 
@@ -7,8 +7,8 @@ This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 Make sure you have [Ruby](https://www.ruby-lang.org), [Bundler](http://bundler.io) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-git clone git@github.com:heroku/ruby-rails-sample.git # or clone your own fork
-cd ruby-rails-sample
+git clone git@github.com:heroku/diversitea-test.git # or clone your own fork
+cd diversitea-test
 bundle
 bundle exec rake bootstrap
 heroku local
